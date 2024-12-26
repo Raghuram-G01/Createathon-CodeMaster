@@ -127,20 +127,6 @@ btn-2:hover{
     border-radius: 50%;
     width:550px;
 }
- /* .img-box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.img-box img {
-    width: 250px; /* Adjust width */
-    /* height: 250px; Make height equal to width */
-    /* border-radius: 50%; Make it a perfect circle */
-    /* object-fit: cover; Ensures the image fits properly */
-    /* box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); Optional shadow for styling */
-    /* border: /5px solid white; Optional border */
-
 
 ::-webkit-scrollbar{
     width: 15px;
